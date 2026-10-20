@@ -40,8 +40,14 @@ Everything travels over your own Wi-Fi or hotspot and never touches the internet
 ---
 
 ## ⚙️ How it works
+Click the below image to check-out the demo video.
+<div align="center">
+<a href="https://github.com/user-attachments/assets/c05e90c6-284e-489c-b3da-61c6f6b85d2c">
+  <img src="assets/thumb.png" width="500">
+</a>
+</div>
 
-<img src="assets/workflow.png" width="1000"> 
+---
 
 1. You type `pctrn` in a terminal.
 2. It finds your PC's current address, starts a small HTTPS server, and prints a **QR code**. A new address (hotspot, new Wi-Fi) is no problem, because the QR is regenerated every run.
