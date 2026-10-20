@@ -1,0 +1,4 @@
+flask
+cryptography
+qrcode
+python-dotenv

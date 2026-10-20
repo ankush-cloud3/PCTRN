@@ -1,0 +1,6 @@
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+pctrn_received/
